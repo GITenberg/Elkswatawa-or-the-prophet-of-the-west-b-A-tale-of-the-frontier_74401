@@ -1,0 +1,32 @@
+_repo: Elkswatawa-or-the-prophet-of-the-west-b-A-tale-of-the-frontier_74401
+_version: 0.0.1
+creator:
+  authors:
+  - agent_name: French, James Strange
+    gutenberg_agent_id: '57490'
+    url: http://www.gutenberg.org/2009/agents/57490
+  - agent_name: Flint, Timothy
+    birthdate: 1780
+    deathdate: 1840
+    gutenberg_agent_id: '4664'
+    url: http://www.gutenberg.org/2009/agents/4664
+description: ''
+gutenberg_issued: '2024-09-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74401'
+language: en
+pgterms:marc904: https://archive.org/details/elkiswatawaorthe01frenrich/mode/2up AND
+  https://archive.org/details/elkiswatawaorthe02frenrich/mode/2up
+pgterms:marc905: 20240720094850french
+pgterms:marc906: '1836'
+pgterms:marc907: US
+production_note: Ron Swanson
+publication_note: '  $aNew York :$bHarper & Brothers, $c1836.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Elkswatawa; or the prophet of the west : $b A tale of the frontier'
+url: http://www.gutenberg.org/ebooks/74401
