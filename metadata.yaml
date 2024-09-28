@@ -1,5 +1,8 @@
 _repo: Elkswatawa-or-the-prophet-of-the-west-b-A-tale-of-the-frontier_74401
 _version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   authors:
   - agent_name: French, James Strange
@@ -11,6 +14,8 @@ creator:
     gutenberg_agent_id: '4664'
     url: http://www.gutenberg.org/2009/agents/4664
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/74401#Elkswatawa-or-the-prophet-of-the-west-b-A-tale-of-the-frontier
 gutenberg_issued: '2024-09-12'
 gutenberg_type: Text
 identifiers:
